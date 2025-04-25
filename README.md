@@ -7,7 +7,7 @@ This documentation is not official from Goodwe, suggestions and commits are welc
 
 ## Inverter
 - Master
-- 
+
 ## Energy Meter
 - Slave (id=3)
 
